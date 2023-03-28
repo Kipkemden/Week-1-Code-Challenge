@@ -40,3 +40,9 @@ Note;
 This code assumes that the employee is based in Kenya and that the tax bands, NHIF deduction scale, and NSSF deduction rate are valid as of September 2021, as extracted from these sources;
 https://www.aren.co.ke/payroll/taxrates.htm
 https://www.kra.go.ke/individual/calculate-tax/calculating-tax/paye.
+
+LICENSE
+These codes are released under the MIT License. You can find a copy of the license in the LICENSE file.
+
+AUTHOR
+This codes were written by C. D. Kipkemoi
