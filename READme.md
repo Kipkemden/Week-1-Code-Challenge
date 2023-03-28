@@ -1,4 +1,5 @@
 STUDENT GRADE GENERATOR
+
 This program uses a switch statement to determine the correct grade based on the student's marks. The switch statement uses the true value to compare the cases. Each case corresponds to a range of marks, and sets the grade variable accordingly. The default case is used for marks less than 40, which corresponds to grade E. Finally, the program outputs the grade to the console.
 
 SPEED DETECTOR
